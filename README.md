@@ -8,5 +8,5 @@ On this test project you can only
 - Id to Token
 
 # Screen
-[alt text](https://cdn.discordapp.com/attachments/1004727452934864928/1044645158228086855/image.png)
+<img title="Medusa Sreen" alt="Alt text" src="https://cdn.discordapp.com/attachments/1004727452934864928/1044645158228086855/image.png">
 
