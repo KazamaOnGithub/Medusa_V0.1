@@ -1,5 +1,5 @@
 # Medusa_V0.1
-This is a test project.
+This is a test project for discord tool in development.
 
 # Features
 On this test project you can only 
