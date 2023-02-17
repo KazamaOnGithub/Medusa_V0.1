@@ -1,3 +1,6 @@
+# Don't update
+This is a old version on my script please wait for last update.
+
 # Medusa_V0.1
 This is a test project for discord tool in development.
 
